@@ -372,11 +372,15 @@ export default {
                 value: "https://cf.systerm.eu.org/nod.ini"
               }
             ]
-          }
+          }，
 
           {
             label: "CM规则",
             options: [
+              {
+                label: "TY  (与Github同步)",
+                value: "https://cf.buliang0.cf/clash-rules/nodnsleak.ini"
+              }，
               {
                 label: "CM_Online 默认版 识别港美地区(与Github同步)",
                 value: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online.ini"
