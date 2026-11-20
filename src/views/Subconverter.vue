@@ -368,8 +368,8 @@ export default {
             label: "CM规则",
             options: [
               {
-                label: "CM_Online 默认版 识别港美地区(与Github同步)",
-                value: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online.ini"
+                label: "TY_Online 默认版",
+                value: "https://cf.systerm.eu.org/nod.ini"
               },
               {
                 label: "CM_Online_MultiCountry 识别港美地区 负载均衡(与Github同步)",
