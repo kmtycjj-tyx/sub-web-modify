@@ -348,7 +348,7 @@ export default {
           "dlj.tf": "https://dlj.tf/short",
         },
         customBackend: {
-          "后端": "http://sub.211921.xyz",
+          "TY后端": "https://sub.211921.xyz",
           "CM提供-负载均衡后端": "https://subapi.cmliussss.net",
           "CM提供-应急备用后端": "https://subapi.fxxk.dedyn.io",
           "肥羊提供-增强型后端": "https://url.v1.mk",
@@ -356,7 +356,7 @@ export default {
           
         },
         backendOptions: [
-          { value: "http://sub.211921.xyz" },
+          { value: "https://sub.211921.xyz" },
           { value: "https://subapi.cmliussss.net" },
           { value: "https://subapi.fxxk.dedyn.io" },
           { value: "https://url.v1.mk" },
