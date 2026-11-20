@@ -352,12 +352,13 @@ export default {
           "CM提供-应急备用后端": "https://subapi.fxxk.dedyn.io",
           "肥羊提供-增强型后端": "https://url.v1.mk",
           "肥羊提供-备用后端": "https://api.v1.mk",
+          "备用后端": "http://subweb.211921.xyz",
         },
         backendOptions: [
           { value: "https://subapi.cmliussss.net" },
           { value: "https://subapi.fxxk.dedyn.io" },
           { value: "https://url.v1.mk" },
-          { value: "https://api.v1.mk" },
+          { value: "http://subweb.211921.xyz" },
         ],
         remoteConfig: [
           {
