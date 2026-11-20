@@ -370,7 +370,7 @@ export default {
               {
                 label: "TY 默认版 (与Github同步)",
                 value: "https://cf.systerm.eu.org/nod.ini"
-              },
+              }
             ]
           }
 
