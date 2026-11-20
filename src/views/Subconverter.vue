@@ -358,6 +358,7 @@ export default {
           { value: "https://subapi.cmliussss.net" },
           { value: "https://subapi.fxxk.dedyn.io" },
           { value: "https://url.v1.mk" },
+          { value: "https://api.v1.mk" },
           { value: "http://subweb.211921.xyz" },
         ],
         remoteConfig: [
