@@ -365,16 +365,6 @@ export default {
         ],
         remoteConfig: [
           {
-            label: "TY规则",
-            options: [
-              {
-                label: "TY 默认版 (与Github同步)",
-                value: "https://cf.systerm.eu.org/nod.ini"
-              }
-            ]
-          }，
-
-          {
             label: "CM规则",
             options: [
               {
